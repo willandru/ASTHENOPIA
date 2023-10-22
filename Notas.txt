@@ -1,3 +1,9 @@
+Eye fatigue consists of two types: the functional decline of the
+optical regulatory system, including muscle fatigue of the ciliary
+muscle and other muscles that affect the focusing function, and
+central fatigue of visual information processing that concerns the
+cognitive process.[Kuwahara]
+
 In both models, the use of an external lens in smart autofocusing 
 wearable eyeglasses improves overall optical power while reducing 
 strain on the ciliary muscle. However, it is important to note that in 
@@ -13,3 +19,30 @@ muscle fatigue, by empowering persons to regulate the optical power
 of their eyeglasses. By exerting control over the internal lens’s optical
 power and subsequently inducing relaxation in the ciliary muscles, individuals
 can effectively mitigate the strain experienced.[YAMHURE]
+
+electrically tunable power of the LC lenses
+
+Consequently, the prolonged utilization of
+such eyeglasses may result in fatigue of the ciliary muscles, as their
+activity remains nearly constant over an extended duration. This phenomenon
+closely resembles computer vision syndrome, characterized
+by ocular strain and discomfort [16]. [YAMHURE]
+
+
+To alleviate this fatigue, it is recommended to engage in relaxing
+exercises such as yoga [20] or employ an external lens with variable
+optical power controlled by the person or an automated system. This
+enables the adjustment of the optical power to achieve focus and relax
+the associated eye muscles.[YAMHURE]
+
+
+
+
+The proposed experimental setup, allows for the independent adjustment
+of each lens within the cascade of lenses, including the camera and the
+cornea-lens system. This setup, depicted in Fig. 6, comprises the EMG
+Controlled Image System (CIS), the Image Projection System (IPS), the
+EMG system, and the Study Participant (SP). The results demonstrate
+that, following a brief training period, all volunteers were able to
+manipulate the camera’s focus to enhance image sharpness in the image
+projection system. The contributions of this paper are as follows:[YAMHURE]
