@@ -1,0 +1,1 @@
+Please copy the .AGF file to the Zemax "Glasscat" folder.
